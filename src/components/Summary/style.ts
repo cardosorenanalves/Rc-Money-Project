@@ -7,6 +7,7 @@ gap: 2rem;
 margin-top: -10rem;
 
 div{
+    box-shadow: 0px 15px 40px rgba(10, 10, 10, 0.18);
     background: var(--shape);
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
